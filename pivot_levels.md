@@ -37,7 +37,7 @@ S2: Current pivot – (R1 – S1)
 S3: Low – 2 x (High – pivot)
 ```
 
-# Camarilla Pivot Point
+# Camarilla Pivot Points
 
 ```
 R4 = C + ((H-L) x 1.5000)
