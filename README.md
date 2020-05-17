@@ -2,6 +2,17 @@
 
 It's small python snippt to count pivot level of stocks using OHLC (Open, High, Low, Close)
 
+## Types of pivot points it supports
+
+- Classic Pivot Points
+- Fibonacci Pivot Points
+- Woodie's Pivot Points
+- Camarilla Pivot Points
+- DDeMark Pivot Points
+
+
+## Getting Started!
+
 just import in function
 
 ## Import
